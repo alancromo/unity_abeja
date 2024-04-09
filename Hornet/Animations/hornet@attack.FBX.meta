@@ -1,0 +1,1710 @@
+fileFormatVersion: 2
+guid: f1dddd3ce01fc6146bea26f66ca54b3b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Hornet
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: hornet_Abdomen1_bone
+  - first:
+      1: 100006
+    second: hornet_Abdomen1_ctrl
+  - first:
+      1: 100008
+    second: hornet_Abdomen2_bone
+  - first:
+      1: 100010
+    second: hornet_Abdomen2_ctrl
+  - first:
+      1: 100012
+    second: hornet_Abdomen3_bone
+  - first:
+      1: 100014
+    second: hornet_Abdomen3_ctrl
+  - first:
+      1: 100016
+    second: hornet_AbdomenBase_bone
+  - first:
+      1: 100018
+    second: hornet_AbdomenBase_ctrl
+  - first:
+      1: 100020
+    second: hornet_AbdomenEnd-nub_bone
+  - first:
+      1: 100022
+    second: hornet_AbdomenEnd_bone
+  - first:
+      1: 100024
+    second: hornet_AbdomenEnd_ctrl
+  - first:
+      1: 100026
+    second: hornet_COM_ctrl
+  - first:
+      1: 100028
+    second: hornet_Head-nub_bone
+  - first:
+      1: 100030
+    second: hornet_Head_bone
+  - first:
+      1: 100032
+    second: hornet_Head_ctrl
+  - first:
+      1: 100034
+    second: hornet_l_Antenna_bone
+  - first:
+      1: 100036
+    second: hornet_l_Antenna_ctrl
+  - first:
+      1: 100038
+    second: hornet_l_AntennaBase_bone
+  - first:
+      1: 100040
+    second: hornet_l_AntennaBase_ctrl
+  - first:
+      1: 100042
+    second: hornet_l_AntennaEnd-nub_bone
+  - first:
+      1: 100044
+    second: hornet_l_AntennaEnd_bone
+  - first:
+      1: 100046
+    second: hornet_l_AntennaEnd_ctrl
+  - first:
+      1: 100048
+    second: hornet_l_AntennaMiddle_bone
+  - first:
+      1: 100050
+    second: hornet_l_AntennaMiddle_ctrl
+  - first:
+      1: 100052
+    second: hornet_l_ball_IKGoal
+  - first:
+      1: 100054
+    second: hornet_l_ballback_IKGoal
+  - first:
+      1: 100056
+    second: hornet_l_ballfore_IKGoal
+  - first:
+      1: 100058
+    second: hornet_l_Chelicerae-nub_bone
+  - first:
+      1: 100060
+    second: hornet_l_Chelicerae_bone
+  - first:
+      1: 100062
+    second: hornet_l_Chelicerae_ctrl
+  - first:
+      1: 100064
+    second: hornet_l_Coxa_bone
+  - first:
+      1: 100066
+    second: hornet_l_Coxa_ctrl
+  - first:
+      1: 100068
+    second: hornet_l_CoxaBack_bone
+  - first:
+      1: 100070
+    second: hornet_l_CoxaBack_ctrl
+  - first:
+      1: 100072
+    second: hornet_l_CoxaFore_bone
+  - first:
+      1: 100074
+    second: hornet_l_CoxaFore_ctrl
+  - first:
+      1: 100076
+    second: hornet_l_Femur_bone
+  - first:
+      1: 100078
+    second: hornet_l_FemurBack_bone
+  - first:
+      1: 100080
+    second: hornet_l_FemurFore_bone
+  - first:
+      1: 100082
+    second: hornet_l_Foot_ctrl
+  - first:
+      1: 100084
+    second: hornet_l_FootBack_ctrl
+  - first:
+      1: 100086
+    second: hornet_l_FootFore_ctrl
+  - first:
+      1: 100088
+    second: hornet_l_Forewing-nub_bone
+  - first:
+      1: 100090
+    second: hornet_l_Forewing_bone
+  - first:
+      1: 100092
+    second: hornet_l_Forewing_ctrl
+  - first:
+      1: 100094
+    second: hornet_l_ForewingBase_bone
+  - first:
+      1: 100096
+    second: hornet_l_ForewingBase_ctrl
+  - first:
+      1: 100098
+    second: hornet_l_heel_IKGoal
+  - first:
+      1: 100100
+    second: hornet_l_heelback_IKGoal
+  - first:
+      1: 100102
+    second: hornet_l_heelfore_IKGoal
+  - first:
+      1: 100104
+    second: hornet_l_HeelLift_hlp
+  - first:
+      1: 100106
+    second: hornet_l_HeelLiftFore_hlp
+  - first:
+      1: 100108
+    second: hornet_l_HeelPeel_hlp
+  - first:
+      1: 100110
+    second: hornet_l_HeelPeelFore_hlp
+  - first:
+      1: 100112
+    second: hornet_l_Metatarsus_bone
+  - first:
+      1: 100114
+    second: hornet_l_MetatarsusBack_bone
+  - first:
+      1: 100116
+    second: hornet_l_MetatarsusFore_bone
+  - first:
+      1: 100118
+    second: hornet_l_Pretarsus-nub_bone
+  - first:
+      1: 100120
+    second: hornet_l_Pretarsus_bone
+  - first:
+      1: 100122
+    second: hornet_l_PretarsusBack-nub_bone
+  - first:
+      1: 100124
+    second: hornet_l_PretarsusBack_bone
+  - first:
+      1: 100126
+    second: hornet_l_PretarsusFore-nub_bone
+  - first:
+      1: 100128
+    second: hornet_l_PretarsusFore_bone
+  - first:
+      1: 100130
+    second: hornet_l_Rearwing-nub_bone
+  - first:
+      1: 100132
+    second: hornet_l_Rearwing_bone
+  - first:
+      1: 100134
+    second: hornet_l_Rearwing_bone 1
+  - first:
+      1: 100136
+    second: hornet_l_Rearwing_ctrl
+  - first:
+      1: 100138
+    second: hornet_l_Rearwing_ctrl 1
+  - first:
+      1: 100140
+    second: hornet_l_Tarsus_bone
+  - first:
+      1: 100142
+    second: hornet_l_tarsus_IKGoal
+  - first:
+      1: 100144
+    second: hornet_l_TarsusBack_bone
+  - first:
+      1: 100146
+    second: hornet_l_TarsusBack_bone 1
+  - first:
+      1: 100148
+    second: hornet_l_tarsusback_IKGoal
+  - first:
+      1: 100150
+    second: hornet_l_TarsusFore_bone
+  - first:
+      1: 100152
+    second: hornet_l_tarsusfore_IKGoal
+  - first:
+      1: 100154
+    second: hornet_l_TarsusTap_hlp
+  - first:
+      1: 100156
+    second: hornet_l_TarsusTapFore_hlp
+  - first:
+      1: 100158
+    second: hornet_l_Tibia_bone
+  - first:
+      1: 100160
+    second: hornet_l_TibiaBack_bone
+  - first:
+      1: 100162
+    second: hornet_l_TibiaFore_bone
+  - first:
+      1: 100164
+    second: hornet_l_toe_IKGoal
+  - first:
+      1: 100166
+    second: hornet_l_toeback_IKGoal
+  - first:
+      1: 100168
+    second: hornet_l_toefore_IKGoal
+  - first:
+      1: 100170
+    second: hornet_l_ToeLift_hlp
+  - first:
+      1: 100172
+    second: hornet_l_ToeLift_hlp 1
+  - first:
+      1: 100174
+    second: hornet_l_ToeTap_hlp
+  - first:
+      1: 100176
+    second: hornet_l_ToeTapFore_hlp
+  - first:
+      1: 100178
+    second: hornet_Main_ctrl
+  - first:
+      1: 100180
+    second: hornet_r_Antenna_bone
+  - first:
+      1: 100182
+    second: hornet_r_Antenna_ctrl
+  - first:
+      1: 100184
+    second: hornet_r_AntennaBase_bone
+  - first:
+      1: 100186
+    second: hornet_r_AntennaBase_ctrl
+  - first:
+      1: 100188
+    second: hornet_r_AntennaEnd-nub_bone
+  - first:
+      1: 100190
+    second: hornet_r_AntennaEnd_bone
+  - first:
+      1: 100192
+    second: hornet_r_AntennaEnd_ctrl
+  - first:
+      1: 100194
+    second: hornet_r_AntennaMiddle_bone
+  - first:
+      1: 100196
+    second: hornet_r_AntennaMiddle_ctrl
+  - first:
+      1: 100198
+    second: hornet_r_ball_IKGoal
+  - first:
+      1: 100200
+    second: hornet_r_ballback_IKGoal
+  - first:
+      1: 100202
+    second: hornet_r_ballfore_IKGoal
+  - first:
+      1: 100204
+    second: hornet_r_Chelicerae-nub_bone
+  - first:
+      1: 100206
+    second: hornet_r_Chelicerae_bone
+  - first:
+      1: 100208
+    second: hornet_r_Chelicerae_ctrl
+  - first:
+      1: 100210
+    second: hornet_r_Coxa_bone
+  - first:
+      1: 100212
+    second: hornet_r_Coxa_ctrl
+  - first:
+      1: 100214
+    second: hornet_r_CoxaBack_bone
+  - first:
+      1: 100216
+    second: hornet_r_CoxaBack_ctrl
+  - first:
+      1: 100218
+    second: hornet_r_CoxaFore_bone
+  - first:
+      1: 100220
+    second: hornet_r_CoxaFore_ctrl
+  - first:
+      1: 100222
+    second: hornet_r_Femur_bone
+  - first:
+      1: 100224
+    second: hornet_r_FemurBack_bone
+  - first:
+      1: 100226
+    second: hornet_r_FemurFore_bone
+  - first:
+      1: 100228
+    second: hornet_r_Foot_ctrl
+  - first:
+      1: 100230
+    second: hornet_r_FootBack_ctrl
+  - first:
+      1: 100232
+    second: hornet_r_FootFore_ctrl
+  - first:
+      1: 100234
+    second: hornet_r_Forewing-nub_bone
+  - first:
+      1: 100236
+    second: hornet_r_Forewing_bone
+  - first:
+      1: 100238
+    second: hornet_r_Forewing_ctrl
+  - first:
+      1: 100240
+    second: hornet_r_ForewingBase_bone
+  - first:
+      1: 100242
+    second: hornet_r_ForewingBase_ctrl
+  - first:
+      1: 100244
+    second: hornet_r_heel_IKGoal
+  - first:
+      1: 100246
+    second: hornet_r_heelback_IKGoal
+  - first:
+      1: 100248
+    second: hornet_r_heelfore_IKGoal
+  - first:
+      1: 100250
+    second: hornet_r_HeelLift_hlp
+  - first:
+      1: 100252
+    second: hornet_r_HeelLiftBack_hlp
+  - first:
+      1: 100254
+    second: hornet_r_HeelLiftBack_hlp 1
+  - first:
+      1: 100256
+    second: hornet_r_HeelLiftFore_hlp
+  - first:
+      1: 100258
+    second: hornet_r_HeelPeel_hlp
+  - first:
+      1: 100260
+    second: hornet_r_HeelPeel_hlp 1
+  - first:
+      1: 100262
+    second: hornet_r_HeelPeel_hlp 2
+  - first:
+      1: 100264
+    second: hornet_r_HeelPeelBack_hlp
+  - first:
+      1: 100266
+    second: hornet_r_Metatarsus_bone
+  - first:
+      1: 100268
+    second: hornet_r_MetatarsusBack_bone
+  - first:
+      1: 100270
+    second: hornet_r_MetatarsusFore_bone
+  - first:
+      1: 100272
+    second: hornet_r_Pretarsus-nub_bone
+  - first:
+      1: 100274
+    second: hornet_r_Pretarsus_bone
+  - first:
+      1: 100276
+    second: hornet_r_PretarsusBack-nub_bone
+  - first:
+      1: 100278
+    second: hornet_r_PretarsusBack_bone
+  - first:
+      1: 100280
+    second: hornet_r_PretarsusFore-nub_bone
+  - first:
+      1: 100282
+    second: hornet_r_PretarsusFore_bone
+  - first:
+      1: 100284
+    second: hornet_r_Rearwing-nub_bone
+  - first:
+      1: 100286
+    second: hornet_r_Rearwing_bone
+  - first:
+      1: 100288
+    second: hornet_r_Rearwing_bone 1
+  - first:
+      1: 100290
+    second: hornet_r_Rearwing_ctrl
+  - first:
+      1: 100292
+    second: hornet_r_Rearwing_ctrl 1
+  - first:
+      1: 100294
+    second: hornet_r_Tarsus_bone
+  - first:
+      1: 100296
+    second: hornet_r_tarsus_IKGoal
+  - first:
+      1: 100298
+    second: hornet_r_TarsusBack_bone
+  - first:
+      1: 100300
+    second: hornet_r_TarsusBack_bone 1
+  - first:
+      1: 100302
+    second: hornet_r_tarsusback_IKGoal
+  - first:
+      1: 100304
+    second: hornet_r_TarsusFore_bone
+  - first:
+      1: 100306
+    second: hornet_r_tarsusfore_IKGoal
+  - first:
+      1: 100308
+    second: hornet_r_TarsusTap_hlp
+  - first:
+      1: 100310
+    second: hornet_r_TarsusTap_hlp 1
+  - first:
+      1: 100312
+    second: hornet_r_TarsusTapBack_hlp
+  - first:
+      1: 100314
+    second: hornet_r_TarsusTapFore_hlp
+  - first:
+      1: 100316
+    second: hornet_r_Tibia_bone
+  - first:
+      1: 100318
+    second: hornet_r_TibiaBack_bone
+  - first:
+      1: 100320
+    second: hornet_r_TibiaFore_bone
+  - first:
+      1: 100322
+    second: hornet_r_toe_IKGoal
+  - first:
+      1: 100324
+    second: hornet_r_toeback_IKGoal
+  - first:
+      1: 100326
+    second: hornet_r_toefore_IKGoal
+  - first:
+      1: 100328
+    second: hornet_r_ToeLift_hlp
+  - first:
+      1: 100330
+    second: hornet_r_ToeLift_hlp 1
+  - first:
+      1: 100332
+    second: hornet_r_ToeLiftBack_hlp
+  - first:
+      1: 100334
+    second: hornet_r_ToeLiftFore_hlp
+  - first:
+      1: 100336
+    second: hornet_r_ToeTap_hlp
+  - first:
+      1: 100338
+    second: hornet_r_ToeTap_hlp 1
+  - first:
+      1: 100340
+    second: hornet_r_ToeTapBack_hlp
+  - first:
+      1: 100342
+    second: hornet_r_ToeTapFore_hlp
+  - first:
+      1: 100344
+    second: hornet_Thorax_bone
+  - first:
+      1: 100346
+    second: Line001
+  - first:
+      1: 100348
+    second: Line002
+  - first:
+      1: 100350
+    second: Line003
+  - first:
+      1: 100352
+    second: Line004
+  - first:
+      1: 100354
+    second: Line005
+  - first:
+      1: 100356
+    second: Line006
+  - first:
+      1: 100358
+    second: Rectangle001
+  - first:
+      1: 100360
+    second: Rectangle002
+  - first:
+      1: 100362
+    second: Rectangle003
+  - first:
+      1: 100364
+    second: Rectangle004
+  - first:
+      1: 100366
+    second: Rectangle005
+  - first:
+      1: 100368
+    second: Rectangle006
+  - first:
+      1: 100370
+    second: Sting
+  - first:
+      4: 400000
+    second: Hornet
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: hornet_Abdomen1_bone
+  - first:
+      4: 400006
+    second: hornet_Abdomen1_ctrl
+  - first:
+      4: 400008
+    second: hornet_Abdomen2_bone
+  - first:
+      4: 400010
+    second: hornet_Abdomen2_ctrl
+  - first:
+      4: 400012
+    second: hornet_Abdomen3_bone
+  - first:
+      4: 400014
+    second: hornet_Abdomen3_ctrl
+  - first:
+      4: 400016
+    second: hornet_AbdomenBase_bone
+  - first:
+      4: 400018
+    second: hornet_AbdomenBase_ctrl
+  - first:
+      4: 400020
+    second: hornet_AbdomenEnd-nub_bone
+  - first:
+      4: 400022
+    second: hornet_AbdomenEnd_bone
+  - first:
+      4: 400024
+    second: hornet_AbdomenEnd_ctrl
+  - first:
+      4: 400026
+    second: hornet_COM_ctrl
+  - first:
+      4: 400028
+    second: hornet_Head-nub_bone
+  - first:
+      4: 400030
+    second: hornet_Head_bone
+  - first:
+      4: 400032
+    second: hornet_Head_ctrl
+  - first:
+      4: 400034
+    second: hornet_l_Antenna_bone
+  - first:
+      4: 400036
+    second: hornet_l_Antenna_ctrl
+  - first:
+      4: 400038
+    second: hornet_l_AntennaBase_bone
+  - first:
+      4: 400040
+    second: hornet_l_AntennaBase_ctrl
+  - first:
+      4: 400042
+    second: hornet_l_AntennaEnd-nub_bone
+  - first:
+      4: 400044
+    second: hornet_l_AntennaEnd_bone
+  - first:
+      4: 400046
+    second: hornet_l_AntennaEnd_ctrl
+  - first:
+      4: 400048
+    second: hornet_l_AntennaMiddle_bone
+  - first:
+      4: 400050
+    second: hornet_l_AntennaMiddle_ctrl
+  - first:
+      4: 400052
+    second: hornet_l_ball_IKGoal
+  - first:
+      4: 400054
+    second: hornet_l_ballback_IKGoal
+  - first:
+      4: 400056
+    second: hornet_l_ballfore_IKGoal
+  - first:
+      4: 400058
+    second: hornet_l_Chelicerae-nub_bone
+  - first:
+      4: 400060
+    second: hornet_l_Chelicerae_bone
+  - first:
+      4: 400062
+    second: hornet_l_Chelicerae_ctrl
+  - first:
+      4: 400064
+    second: hornet_l_Coxa_bone
+  - first:
+      4: 400066
+    second: hornet_l_Coxa_ctrl
+  - first:
+      4: 400068
+    second: hornet_l_CoxaBack_bone
+  - first:
+      4: 400070
+    second: hornet_l_CoxaBack_ctrl
+  - first:
+      4: 400072
+    second: hornet_l_CoxaFore_bone
+  - first:
+      4: 400074
+    second: hornet_l_CoxaFore_ctrl
+  - first:
+      4: 400076
+    second: hornet_l_Femur_bone
+  - first:
+      4: 400078
+    second: hornet_l_FemurBack_bone
+  - first:
+      4: 400080
+    second: hornet_l_FemurFore_bone
+  - first:
+      4: 400082
+    second: hornet_l_Foot_ctrl
+  - first:
+      4: 400084
+    second: hornet_l_FootBack_ctrl
+  - first:
+      4: 400086
+    second: hornet_l_FootFore_ctrl
+  - first:
+      4: 400088
+    second: hornet_l_Forewing-nub_bone
+  - first:
+      4: 400090
+    second: hornet_l_Forewing_bone
+  - first:
+      4: 400092
+    second: hornet_l_Forewing_ctrl
+  - first:
+      4: 400094
+    second: hornet_l_ForewingBase_bone
+  - first:
+      4: 400096
+    second: hornet_l_ForewingBase_ctrl
+  - first:
+      4: 400098
+    second: hornet_l_heel_IKGoal
+  - first:
+      4: 400100
+    second: hornet_l_heelback_IKGoal
+  - first:
+      4: 400102
+    second: hornet_l_heelfore_IKGoal
+  - first:
+      4: 400104
+    second: hornet_l_HeelLift_hlp
+  - first:
+      4: 400106
+    second: hornet_l_HeelLiftFore_hlp
+  - first:
+      4: 400108
+    second: hornet_l_HeelPeel_hlp
+  - first:
+      4: 400110
+    second: hornet_l_HeelPeelFore_hlp
+  - first:
+      4: 400112
+    second: hornet_l_Metatarsus_bone
+  - first:
+      4: 400114
+    second: hornet_l_MetatarsusBack_bone
+  - first:
+      4: 400116
+    second: hornet_l_MetatarsusFore_bone
+  - first:
+      4: 400118
+    second: hornet_l_Pretarsus-nub_bone
+  - first:
+      4: 400120
+    second: hornet_l_Pretarsus_bone
+  - first:
+      4: 400122
+    second: hornet_l_PretarsusBack-nub_bone
+  - first:
+      4: 400124
+    second: hornet_l_PretarsusBack_bone
+  - first:
+      4: 400126
+    second: hornet_l_PretarsusFore-nub_bone
+  - first:
+      4: 400128
+    second: hornet_l_PretarsusFore_bone
+  - first:
+      4: 400130
+    second: hornet_l_Rearwing-nub_bone
+  - first:
+      4: 400132
+    second: hornet_l_Rearwing_bone
+  - first:
+      4: 400134
+    second: hornet_l_Rearwing_bone 1
+  - first:
+      4: 400136
+    second: hornet_l_Rearwing_ctrl
+  - first:
+      4: 400138
+    second: hornet_l_Rearwing_ctrl 1
+  - first:
+      4: 400140
+    second: hornet_l_Tarsus_bone
+  - first:
+      4: 400142
+    second: hornet_l_tarsus_IKGoal
+  - first:
+      4: 400144
+    second: hornet_l_TarsusBack_bone
+  - first:
+      4: 400146
+    second: hornet_l_TarsusBack_bone 1
+  - first:
+      4: 400148
+    second: hornet_l_tarsusback_IKGoal
+  - first:
+      4: 400150
+    second: hornet_l_TarsusFore_bone
+  - first:
+      4: 400152
+    second: hornet_l_tarsusfore_IKGoal
+  - first:
+      4: 400154
+    second: hornet_l_TarsusTap_hlp
+  - first:
+      4: 400156
+    second: hornet_l_TarsusTapFore_hlp
+  - first:
+      4: 400158
+    second: hornet_l_Tibia_bone
+  - first:
+      4: 400160
+    second: hornet_l_TibiaBack_bone
+  - first:
+      4: 400162
+    second: hornet_l_TibiaFore_bone
+  - first:
+      4: 400164
+    second: hornet_l_toe_IKGoal
+  - first:
+      4: 400166
+    second: hornet_l_toeback_IKGoal
+  - first:
+      4: 400168
+    second: hornet_l_toefore_IKGoal
+  - first:
+      4: 400170
+    second: hornet_l_ToeLift_hlp
+  - first:
+      4: 400172
+    second: hornet_l_ToeLift_hlp 1
+  - first:
+      4: 400174
+    second: hornet_l_ToeTap_hlp
+  - first:
+      4: 400176
+    second: hornet_l_ToeTapFore_hlp
+  - first:
+      4: 400178
+    second: hornet_Main_ctrl
+  - first:
+      4: 400180
+    second: hornet_r_Antenna_bone
+  - first:
+      4: 400182
+    second: hornet_r_Antenna_ctrl
+  - first:
+      4: 400184
+    second: hornet_r_AntennaBase_bone
+  - first:
+      4: 400186
+    second: hornet_r_AntennaBase_ctrl
+  - first:
+      4: 400188
+    second: hornet_r_AntennaEnd-nub_bone
+  - first:
+      4: 400190
+    second: hornet_r_AntennaEnd_bone
+  - first:
+      4: 400192
+    second: hornet_r_AntennaEnd_ctrl
+  - first:
+      4: 400194
+    second: hornet_r_AntennaMiddle_bone
+  - first:
+      4: 400196
+    second: hornet_r_AntennaMiddle_ctrl
+  - first:
+      4: 400198
+    second: hornet_r_ball_IKGoal
+  - first:
+      4: 400200
+    second: hornet_r_ballback_IKGoal
+  - first:
+      4: 400202
+    second: hornet_r_ballfore_IKGoal
+  - first:
+      4: 400204
+    second: hornet_r_Chelicerae-nub_bone
+  - first:
+      4: 400206
+    second: hornet_r_Chelicerae_bone
+  - first:
+      4: 400208
+    second: hornet_r_Chelicerae_ctrl
+  - first:
+      4: 400210
+    second: hornet_r_Coxa_bone
+  - first:
+      4: 400212
+    second: hornet_r_Coxa_ctrl
+  - first:
+      4: 400214
+    second: hornet_r_CoxaBack_bone
+  - first:
+      4: 400216
+    second: hornet_r_CoxaBack_ctrl
+  - first:
+      4: 400218
+    second: hornet_r_CoxaFore_bone
+  - first:
+      4: 400220
+    second: hornet_r_CoxaFore_ctrl
+  - first:
+      4: 400222
+    second: hornet_r_Femur_bone
+  - first:
+      4: 400224
+    second: hornet_r_FemurBack_bone
+  - first:
+      4: 400226
+    second: hornet_r_FemurFore_bone
+  - first:
+      4: 400228
+    second: hornet_r_Foot_ctrl
+  - first:
+      4: 400230
+    second: hornet_r_FootBack_ctrl
+  - first:
+      4: 400232
+    second: hornet_r_FootFore_ctrl
+  - first:
+      4: 400234
+    second: hornet_r_Forewing-nub_bone
+  - first:
+      4: 400236
+    second: hornet_r_Forewing_bone
+  - first:
+      4: 400238
+    second: hornet_r_Forewing_ctrl
+  - first:
+      4: 400240
+    second: hornet_r_ForewingBase_bone
+  - first:
+      4: 400242
+    second: hornet_r_ForewingBase_ctrl
+  - first:
+      4: 400244
+    second: hornet_r_heel_IKGoal
+  - first:
+      4: 400246
+    second: hornet_r_heelback_IKGoal
+  - first:
+      4: 400248
+    second: hornet_r_heelfore_IKGoal
+  - first:
+      4: 400250
+    second: hornet_r_HeelLift_hlp
+  - first:
+      4: 400252
+    second: hornet_r_HeelLiftBack_hlp
+  - first:
+      4: 400254
+    second: hornet_r_HeelLiftBack_hlp 1
+  - first:
+      4: 400256
+    second: hornet_r_HeelLiftFore_hlp
+  - first:
+      4: 400258
+    second: hornet_r_HeelPeel_hlp
+  - first:
+      4: 400260
+    second: hornet_r_HeelPeel_hlp 1
+  - first:
+      4: 400262
+    second: hornet_r_HeelPeel_hlp 2
+  - first:
+      4: 400264
+    second: hornet_r_HeelPeelBack_hlp
+  - first:
+      4: 400266
+    second: hornet_r_Metatarsus_bone
+  - first:
+      4: 400268
+    second: hornet_r_MetatarsusBack_bone
+  - first:
+      4: 400270
+    second: hornet_r_MetatarsusFore_bone
+  - first:
+      4: 400272
+    second: hornet_r_Pretarsus-nub_bone
+  - first:
+      4: 400274
+    second: hornet_r_Pretarsus_bone
+  - first:
+      4: 400276
+    second: hornet_r_PretarsusBack-nub_bone
+  - first:
+      4: 400278
+    second: hornet_r_PretarsusBack_bone
+  - first:
+      4: 400280
+    second: hornet_r_PretarsusFore-nub_bone
+  - first:
+      4: 400282
+    second: hornet_r_PretarsusFore_bone
+  - first:
+      4: 400284
+    second: hornet_r_Rearwing-nub_bone
+  - first:
+      4: 400286
+    second: hornet_r_Rearwing_bone
+  - first:
+      4: 400288
+    second: hornet_r_Rearwing_bone 1
+  - first:
+      4: 400290
+    second: hornet_r_Rearwing_ctrl
+  - first:
+      4: 400292
+    second: hornet_r_Rearwing_ctrl 1
+  - first:
+      4: 400294
+    second: hornet_r_Tarsus_bone
+  - first:
+      4: 400296
+    second: hornet_r_tarsus_IKGoal
+  - first:
+      4: 400298
+    second: hornet_r_TarsusBack_bone
+  - first:
+      4: 400300
+    second: hornet_r_TarsusBack_bone 1
+  - first:
+      4: 400302
+    second: hornet_r_tarsusback_IKGoal
+  - first:
+      4: 400304
+    second: hornet_r_TarsusFore_bone
+  - first:
+      4: 400306
+    second: hornet_r_tarsusfore_IKGoal
+  - first:
+      4: 400308
+    second: hornet_r_TarsusTap_hlp
+  - first:
+      4: 400310
+    second: hornet_r_TarsusTap_hlp 1
+  - first:
+      4: 400312
+    second: hornet_r_TarsusTapBack_hlp
+  - first:
+      4: 400314
+    second: hornet_r_TarsusTapFore_hlp
+  - first:
+      4: 400316
+    second: hornet_r_Tibia_bone
+  - first:
+      4: 400318
+    second: hornet_r_TibiaBack_bone
+  - first:
+      4: 400320
+    second: hornet_r_TibiaFore_bone
+  - first:
+      4: 400322
+    second: hornet_r_toe_IKGoal
+  - first:
+      4: 400324
+    second: hornet_r_toeback_IKGoal
+  - first:
+      4: 400326
+    second: hornet_r_toefore_IKGoal
+  - first:
+      4: 400328
+    second: hornet_r_ToeLift_hlp
+  - first:
+      4: 400330
+    second: hornet_r_ToeLift_hlp 1
+  - first:
+      4: 400332
+    second: hornet_r_ToeLiftBack_hlp
+  - first:
+      4: 400334
+    second: hornet_r_ToeLiftFore_hlp
+  - first:
+      4: 400336
+    second: hornet_r_ToeTap_hlp
+  - first:
+      4: 400338
+    second: hornet_r_ToeTap_hlp 1
+  - first:
+      4: 400340
+    second: hornet_r_ToeTapBack_hlp
+  - first:
+      4: 400342
+    second: hornet_r_ToeTapFore_hlp
+  - first:
+      4: 400344
+    second: hornet_Thorax_bone
+  - first:
+      4: 400346
+    second: Line001
+  - first:
+      4: 400348
+    second: Line002
+  - first:
+      4: 400350
+    second: Line003
+  - first:
+      4: 400352
+    second: Line004
+  - first:
+      4: 400354
+    second: Line005
+  - first:
+      4: 400356
+    second: Line006
+  - first:
+      4: 400358
+    second: Rectangle001
+  - first:
+      4: 400360
+    second: Rectangle002
+  - first:
+      4: 400362
+    second: Rectangle003
+  - first:
+      4: 400364
+    second: Rectangle004
+  - first:
+      4: 400366
+    second: Rectangle005
+  - first:
+      4: 400368
+    second: Rectangle006
+  - first:
+      4: 400370
+    second: Sting
+  - first:
+      23: 2300000
+    second: hornet_l_Foot_ctrl
+  - first:
+      23: 2300002
+    second: hornet_l_FootBack_ctrl
+  - first:
+      23: 2300004
+    second: hornet_l_FootFore_ctrl
+  - first:
+      23: 2300006
+    second: hornet_r_Foot_ctrl
+  - first:
+      23: 2300008
+    second: hornet_r_FootBack_ctrl
+  - first:
+      23: 2300010
+    second: hornet_r_FootFore_ctrl
+  - first:
+      23: 2300012
+    second: Sting
+  - first:
+      33: 3300000
+    second: hornet_l_Foot_ctrl
+  - first:
+      33: 3300002
+    second: hornet_l_FootBack_ctrl
+  - first:
+      33: 3300004
+    second: hornet_l_FootFore_ctrl
+  - first:
+      33: 3300006
+    second: hornet_r_Foot_ctrl
+  - first:
+      33: 3300008
+    second: hornet_r_FootBack_ctrl
+  - first:
+      33: 3300010
+    second: hornet_r_FootFore_ctrl
+  - first:
+      33: 3300012
+    second: Sting
+  - first:
+      43: 4300000
+    second: Hornet
+  - first:
+      43: 4300002
+    second: Sting
+  - first:
+      43: 4300004
+    second: hornet_r_FootFore_ctrl
+  - first:
+      43: 4300006
+    second: hornet_r_Foot_ctrl
+  - first:
+      43: 4300008
+    second: hornet_r_FootBack_ctrl
+  - first:
+      43: 4300010
+    second: hornet_l_FootFore_ctrl
+  - first:
+      43: 4300012
+    second: hornet_l_Foot_ctrl
+  - first:
+      43: 4300014
+    second: hornet_l_FootBack_ctrl
+  - first:
+      74: 7400000
+    second: attack
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Hornet
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 85
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hornet
+        weight: 1
+      - path: hornet_AbdomenBase_ctrl
+        weight: 1
+      - path: hornet_AbdomenBase_ctrl/hornet_Abdomen1_ctrl
+        weight: 1
+      - path: hornet_AbdomenBase_ctrl/hornet_Abdomen1_ctrl/hornet_Abdomen2_ctrl
+        weight: 1
+      - path: hornet_AbdomenBase_ctrl/hornet_Abdomen1_ctrl/hornet_Abdomen2_ctrl/hornet_Abdomen3_ctrl
+        weight: 1
+      - path: hornet_AbdomenBase_ctrl/hornet_Abdomen1_ctrl/hornet_Abdomen2_ctrl/hornet_Abdomen3_ctrl/hornet_AbdomenEnd_ctrl
+        weight: 1
+      - path: hornet_Head_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone/hornet_Abdomen2_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone/hornet_Abdomen2_bone/hornet_Abdomen3_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone/hornet_Abdomen2_bone/hornet_Abdomen3_bone/hornet_AbdomenEnd_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone/hornet_Abdomen2_bone/hornet_Abdomen3_bone/hornet_AbdomenEnd_bone/hornet_AbdomenEnd-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_AbdomenBase_bone/hornet_Abdomen1_bone/hornet_Abdomen2_bone/hornet_Abdomen3_bone/hornet_AbdomenEnd_bone/Sting
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_Head-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_bone/hornet_l_Antenna_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_bone/hornet_l_Antenna_bone/hornet_l_AntennaMiddle_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_bone/hornet_l_Antenna_bone/hornet_l_AntennaMiddle_bone/hornet_l_AntennaEnd_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_bone/hornet_l_Antenna_bone/hornet_l_AntennaMiddle_bone/hornet_l_AntennaEnd_bone/hornet_l_AntennaEnd-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_ctrl/hornet_l_Antenna_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_ctrl/hornet_l_Antenna_ctrl/hornet_l_AntennaMiddle_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_AntennaBase_ctrl/hornet_l_Antenna_ctrl/hornet_l_AntennaMiddle_ctrl/hornet_l_AntennaEnd_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_Chelicerae_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_Chelicerae_bone/hornet_l_Chelicerae-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_l_Chelicerae_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_bone/hornet_r_Antenna_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_bone/hornet_r_Antenna_bone/hornet_r_AntennaMiddle_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_bone/hornet_r_Antenna_bone/hornet_r_AntennaMiddle_bone/hornet_r_AntennaEnd_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_bone/hornet_r_Antenna_bone/hornet_r_AntennaMiddle_bone/hornet_r_AntennaEnd_bone/hornet_r_AntennaEnd-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_ctrl/hornet_r_Antenna_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_ctrl/hornet_r_Antenna_ctrl/hornet_r_AntennaMiddle_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_AntennaBase_ctrl/hornet_r_Antenna_ctrl/hornet_r_AntennaMiddle_ctrl/hornet_r_AntennaEnd_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_Chelicerae_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_Chelicerae_bone/hornet_r_Chelicerae-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_Head_bone/hornet_r_Chelicerae_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone/hornet_l_Tibia_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone/hornet_l_Tibia_bone/hornet_l_Tarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone/hornet_l_Tibia_bone/hornet_l_Tarsus_bone/hornet_l_Metatarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone/hornet_l_Tibia_bone/hornet_l_Tarsus_bone/hornet_l_Metatarsus_bone/hornet_l_Pretarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_bone/hornet_l_Femur_bone/hornet_l_Tibia_bone/hornet_l_Tarsus_bone/hornet_l_Metatarsus_bone/hornet_l_Pretarsus_bone/hornet_l_Pretarsus-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Coxa_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone/hornet_l_TarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone/hornet_l_TarsusBack_bone/hornet_l_TarsusBack_bone
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone/hornet_l_TarsusBack_bone/hornet_l_TarsusBack_bone
+          1/hornet_l_MetatarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone/hornet_l_TarsusBack_bone/hornet_l_TarsusBack_bone
+          1/hornet_l_MetatarsusBack_bone/hornet_l_PretarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_bone/hornet_l_FemurBack_bone/hornet_l_TibiaBack_bone/hornet_l_TarsusBack_bone/hornet_l_TarsusBack_bone
+          1/hornet_l_MetatarsusBack_bone/hornet_l_PretarsusBack_bone/hornet_l_PretarsusBack-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaBack_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone/hornet_l_TibiaFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone/hornet_l_TibiaFore_bone/hornet_l_TarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone/hornet_l_TibiaFore_bone/hornet_l_TarsusFore_bone/hornet_l_MetatarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone/hornet_l_TibiaFore_bone/hornet_l_TarsusFore_bone/hornet_l_MetatarsusFore_bone/hornet_l_PretarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_bone/hornet_l_FemurFore_bone/hornet_l_TibiaFore_bone/hornet_l_TarsusFore_bone/hornet_l_MetatarsusFore_bone/hornet_l_PretarsusFore_bone/hornet_l_PretarsusFore-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_CoxaFore_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_ForewingBase_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_ForewingBase_bone/hornet_l_Forewing_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_ForewingBase_bone/hornet_l_Forewing_bone/hornet_l_Forewing-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_ForewingBase_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_ForewingBase_ctrl/hornet_l_Forewing_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Rearwing_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Rearwing_bone/hornet_l_Rearwing_bone
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Rearwing_bone/hornet_l_Rearwing_bone
+          1/hornet_l_Rearwing-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Rearwing_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_l_Rearwing_ctrl/hornet_l_Rearwing_ctrl
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone/hornet_r_Tibia_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone/hornet_r_Tibia_bone/hornet_r_Tarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone/hornet_r_Tibia_bone/hornet_r_Tarsus_bone/hornet_r_Metatarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone/hornet_r_Tibia_bone/hornet_r_Tarsus_bone/hornet_r_Metatarsus_bone/hornet_r_Pretarsus_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_bone/hornet_r_Femur_bone/hornet_r_Tibia_bone/hornet_r_Tarsus_bone/hornet_r_Metatarsus_bone/hornet_r_Pretarsus_bone/hornet_r_Pretarsus-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Coxa_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone/hornet_r_TarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone/hornet_r_TarsusBack_bone/hornet_r_TarsusBack_bone
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone/hornet_r_TarsusBack_bone/hornet_r_TarsusBack_bone
+          1/hornet_r_MetatarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone/hornet_r_TarsusBack_bone/hornet_r_TarsusBack_bone
+          1/hornet_r_MetatarsusBack_bone/hornet_r_PretarsusBack_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_bone/hornet_r_FemurBack_bone/hornet_r_TibiaBack_bone/hornet_r_TarsusBack_bone/hornet_r_TarsusBack_bone
+          1/hornet_r_MetatarsusBack_bone/hornet_r_PretarsusBack_bone/hornet_r_PretarsusBack-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaBack_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone/hornet_r_TibiaFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone/hornet_r_TibiaFore_bone/hornet_r_TarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone/hornet_r_TibiaFore_bone/hornet_r_TarsusFore_bone/hornet_r_MetatarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone/hornet_r_TibiaFore_bone/hornet_r_TarsusFore_bone/hornet_r_MetatarsusFore_bone/hornet_r_PretarsusFore_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_bone/hornet_r_FemurFore_bone/hornet_r_TibiaFore_bone/hornet_r_TarsusFore_bone/hornet_r_MetatarsusFore_bone/hornet_r_PretarsusFore_bone/hornet_r_PretarsusFore-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_CoxaFore_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_ForewingBase_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_ForewingBase_bone/hornet_r_Forewing_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_ForewingBase_bone/hornet_r_Forewing_bone/hornet_r_Forewing-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_ForewingBase_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_ForewingBase_ctrl/hornet_r_Forewing_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Rearwing_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Rearwing_bone/hornet_r_Rearwing_bone
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Rearwing_bone/hornet_r_Rearwing_bone
+          1/hornet_r_Rearwing-nub_bone
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Rearwing_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_COM_ctrl/hornet_Thorax_bone/hornet_r_Rearwing_ctrl/hornet_r_Rearwing_ctrl
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_HeelPeel_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_HeelPeel_hlp/hornet_l_ball_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_HeelPeel_hlp/hornet_l_heel_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_ToeTap_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_ToeTap_hlp/hornet_l_tarsus_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_ToeTap_hlp/hornet_l_TarsusTap_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_Foot_ctrl/hornet_l_HeelLift_hlp/hornet_l_ToeLift_hlp
+          1/hornet_l_ToeTap_hlp/hornet_l_TarsusTap_hlp/hornet_l_toe_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_HeelPeelBack_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_HeelPeelBack_hlp/hornet_l_ballback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_HeelPeelBack_hlp/hornet_l_heelback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_ToeTapBack_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_ToeTapBack_hlp/hornet_l_tarsusback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_ToeTapBack_hlp/hornet_r_TarsusTapBack_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootBack_ctrl/hornet_r_HeelLiftBack_hlp/hornet_r_ToeLiftBack_hlp/hornet_r_ToeTapBack_hlp/hornet_r_TarsusTapBack_hlp/hornet_l_toeback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_HeelPeelFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_HeelPeelFore_hlp/hornet_l_ballfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_HeelPeelFore_hlp/hornet_l_heelfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_ToeTapFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_ToeTapFore_hlp/hornet_l_tarsusfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_ToeTapFore_hlp/hornet_l_TarsusTapFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_l_FootFore_ctrl/hornet_l_HeelLiftFore_hlp/hornet_l_ToeLift_hlp/hornet_l_ToeTapFore_hlp/hornet_l_TarsusTapFore_hlp/hornet_l_toefore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_HeelPeel_hlp 2
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_HeelPeel_hlp 2/hornet_r_ball_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_HeelPeel_hlp 2/hornet_r_heel_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_ToeTap_hlp 1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_ToeTap_hlp 1/hornet_r_tarsus_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_ToeTap_hlp 1/hornet_r_TarsusTap_hlp 1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_Foot_ctrl/hornet_r_HeelLift_hlp/hornet_r_ToeLift_hlp
+          1/hornet_r_ToeTap_hlp 1/hornet_r_TarsusTap_hlp 1/hornet_r_toe_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_HeelPeel_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_HeelPeel_hlp/hornet_r_ballback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_HeelPeel_hlp/hornet_r_heelback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_ToeTap_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_ToeTap_hlp/hornet_r_tarsusback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_ToeTap_hlp/hornet_r_TarsusTap_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootBack_ctrl/hornet_r_HeelLiftBack_hlp 1/hornet_r_ToeLift_hlp/hornet_r_ToeTap_hlp/hornet_r_TarsusTap_hlp/hornet_r_toeback_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_HeelPeel_hlp
+          1
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_HeelPeel_hlp
+          1/hornet_r_ballfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_HeelPeel_hlp
+          1/hornet_r_heelfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_ToeTapFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_ToeTapFore_hlp/hornet_r_tarsusfore_IKGoal
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_ToeTapFore_hlp/hornet_r_TarsusTapFore_hlp
+        weight: 1
+      - path: hornet_Main_ctrl/hornet_r_FootFore_ctrl/hornet_r_HeelLiftFore_hlp/hornet_r_ToeLiftFore_hlp/hornet_r_ToeTapFore_hlp/hornet_r_TarsusTapFore_hlp/hornet_r_toefore_IKGoal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 85
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: hornet_Main_ctrl
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
